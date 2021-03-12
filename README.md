@@ -21,8 +21,8 @@
 
 | Web Browser Name | Version required | Statut  |
 | ---- | ---- | ---- |
-| Chrome |  0.0.1 | :heavy_check_mark: Everything working |
-| FireFox | Not supported | :x: Not supported yet |
+| Chrome |  0.0.1 or + | :heavy_check_mark: Everything working |
+| FireFox | 0.0.2 | :heavy_check_mark: Everything working |
 | Opera | Not supported | :x: Not supported yet |
 | Edge | Will never be supported  | 🚫 Will never be supported  |
 
@@ -34,6 +34,7 @@
 
 #### Latest versions
 
+- [0.0.2](https://github.com/LeonimusTTV/Youtube-Presence/releases/tag/0.0.2)
 - [0.0.1](https://github.com/LeonimusTTV/Youtube-Presence/releases/tag/0.0.1)
 
 
