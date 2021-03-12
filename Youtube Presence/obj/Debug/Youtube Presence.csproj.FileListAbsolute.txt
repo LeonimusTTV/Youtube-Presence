@@ -1,0 +1,41 @@
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\obj\Debug\Youtube Presence.csprojAssemblyReference.cache
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\obj\Debug\Youtube_Presence.Properties.Resources.resources
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\obj\Debug\Youtube Presence.csproj.GenerateResource.cache
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\obj\Debug\Youtube Presence.csproj.CoreCompileInputs.cache
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\Youtube Presence.exe.config
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\Youtube Presence.exe
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\Youtube Presence.pdb
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\libvideo.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.AppContext.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Console.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.IO.Compression.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.IO.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.IO.FileSystem.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Linq.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Linq.Expressions.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Net.Http.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Net.Sockets.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Reflection.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Runtime.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\obj\Debug\Youtube Presence.csproj.CopyComplete
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\obj\Debug\Youtube Presence.exe
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\obj\Debug\Youtube Presence.pdb
+C:\Users\leodu\source\repos\Youtube Presence\Youtube Presence\obj\Debug\Youtube_Presence.YoutubePresence.resources
